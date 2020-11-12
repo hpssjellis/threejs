@@ -1,13 +1,13 @@
 
 
-demo https://hpssjellis.github.io/threejs/
+demo https://hpssjellis.github.io/threejsdemo/
 
 
 
 
 working on
 
-https://hpssjellis.github.io/threejs/monster-parkor02.html
+https://hpssjellis.github.io/threejsdemo/monster-parkor02.html
 
 
 
